@@ -1,0 +1,16 @@
+name: personal-site
+id: ari:cloud:compass:a5fd7e86-1037-4957-88e1-656b1179d617:component/30307f94-33fc-4613-b40d-651fee166c5e/5550f9f9-e200-47c9-b3c2-3af7f04c5008
+description: My personal website - built with React, React-Router, React-Snap for Static-Export, and GitHub Pages.
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/DASTOVEK/personal-site
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
